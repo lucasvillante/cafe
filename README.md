@@ -1,6 +1,9 @@
 # cafe
 Fazendo café
 
+Descrição do café:
+Café artesanal feito manualmente, utilizando ingredientes que temos em casa.
+
 Ingredientes:
 - cafe
 -xicara

@@ -4,15 +4,18 @@ Fazendo café
 Descrição do café:
 Café artesanal feito manualmente, utilizando ingredientes que temos em casa.
 
-Ingredientes:
-- cafe
--xicara
--filtro
--agua quente
--leite
--açucar 
--canela
--chocolate
+<h2>Ingredientes:</h2>
+
+<ol>
+    <li>cafe</li>
+    <li>xicara</li>
+    <li>filtro</li>
+    <li>agua quente</li>
+    <li>leite</li>
+    <li>açucar</li>
+    <li>canela</li>
+    <li>chocolate</li>
+</ol>
 
 Preparação:
 Pegue o grão do café

@@ -22,4 +22,7 @@ adicione o leite batido ao café
 adicione a canela em cima 
 beba o café hehe 
 
+Avaliação:
+O café realmente possui uma complexidade de sabor extremamente agradavel. Confesso que minnhas expectativas estavam baixas, porem, a experiência foi espetacular. 10/10
+
 Bom café!
